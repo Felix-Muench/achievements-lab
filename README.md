@@ -12,4 +12,7 @@ achievements GitHub hands out along the way.
 
 ```bash
 python3 achievements.py
+
+# only the ones you can earn without anyone else's help
+python3 achievements.py --solo
 ```
